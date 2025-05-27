@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm a **student** passionate about building cool s
 ## 🌟 Notable Project
 
 [Martin-Habitat-Pathfinder](https://github.com/Estiakk/Martin-Habitat-Pathfinder)  
-A project focused on intelligent pathfinding and autonomous navigation—check it out and feel free to contribute or give feedback!
+The Martian Habitat Pathfinder project aims to identify and evaluate potential habitat locations on Mars by analyzing topographical data, environmental conditions, and resource availability.
+
 
 ---
 
