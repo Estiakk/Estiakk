@@ -46,6 +46,7 @@ I love experimenting with new tech and sharing my discoveries with the community
 ## 📫 Let's Connect
 
 - **GitHub:** [Estiakk](https://github.com/Estiakk)
+- **Email:** estiakabag@gmail.com
 
 ---
 
