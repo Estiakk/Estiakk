@@ -23,7 +23,18 @@ Welcome to my GitHub profile! I'm a **student** passionate about building cool s
 ## 🌟 Notable Project
 
 [Martin-Habitat-Pathfinder](https://github.com/Estiakk/Martin-Habitat-Pathfinder)  
-A project that aims to identify and evaluate potential habitat locations on Mars by analyzing topographical data, environmental conditions, and resource availability.
+A project focused on intelligent pathfinding and autonomous navigation—check it out and feel free to contribute or give feedback!
+
+---
+
+## 📊 GitHub Stats & Badges
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Estiakk&label=Profile+Views)
+![Estiakk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estiakk&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Estiakk&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estiakk&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Estiakk&theme=radical)
+
 ---
 
 ## 💡 Fun Fact
@@ -39,18 +50,3 @@ I love experimenting with new tech and sharing my discoveries with the community
 ---
 
 > "Keep building, keep learning, and never stop being curious."
-
-<!--
-**Estiakk/Estiakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
